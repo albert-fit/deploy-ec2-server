@@ -1,0 +1,6 @@
+# Terraform scratch directory
+.terraform/
+
+# Terraform lock file
+*.tfstate
+*.tfstate.backup
